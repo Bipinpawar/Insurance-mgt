@@ -68,7 +68,7 @@ function RegistrationForm() {
   return (
     <div className="registrationForm">
       {isSubmitted ?<>
-        <h1> Thank you...we will get back to you...!!!</h1>
+        <h1 style={{textAlign: 'center'}}> Thank you...we will get back to you...!!!</h1>
         </>
          :
         <>
