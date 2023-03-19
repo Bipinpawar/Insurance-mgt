@@ -1,0 +1,28 @@
+.registrationForm {
+    width: 80%;
+    padding: 40px 0;
+    margin: 0 auto;
+}
+
+.submit-btn {
+    color: #fff;
+    border: 1px solid #007abc;
+    padding: 16px 24px;
+    line-height: 24px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-left: 10px;
+    width: auto;
+    background: #007abc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.submit-btn:disabled {
+ background: gray;
+}
+.btn {
+    text-align: center;
+}

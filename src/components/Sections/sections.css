@@ -1,0 +1,29 @@
+.Sections {
+    width: 100%;
+    padding-left: 10%;
+}
+
+.questions-container {
+    /* display: flex; */
+    padding-bottom: 20px;
+}
+
+.question-label {
+    flex: 1;
+    text-transform: capitalize;
+}
+
+.question-input {
+    width: 70%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    height: 30px;
+}
+.question-input-select {
+    width: 72%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    height: 50px;
+}

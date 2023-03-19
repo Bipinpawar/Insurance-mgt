@@ -1,0 +1,29 @@
+.insurance-content {
+    position: relative;
+    padding: 15px;
+    width: 25%;
+}
+.title {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.description {
+    width: 100%;
+    margin: auto;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.insurance-logo {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 16px;
+    text-align: center;
+}
